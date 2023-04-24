@@ -5,4 +5,4 @@
   - I'm particularly interested in the field of Computer Graphics.
 
 ### 📊 Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JGBRANDS&show_icons=true&theme=highcontrast&langs_count=20)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JGBRANDS&show_icons=true&theme=highcontrast&langs_count=20&layout=compact)
